@@ -9,7 +9,7 @@ aux = 1;
 while (aux <= index) {
 if (index % aux == 0) {
 }
-counttt
+count = 0
 if (count > 2) {
 }
 break;
